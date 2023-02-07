@@ -76,7 +76,7 @@ class UsersController
                 // Если данные правильные, запоминаем пользователя (сессия)
                 User::auth($userLogin);
 
-                // Тут надо будет перенаправить пользователя на главную с текстом "привет, юзернейм"
+                header("Location: /");
 
             }
         }
@@ -85,7 +85,6 @@ class UsersController
     }
     public function logout()
     {
-        //ЗДЕСЬ БУДЕТ ВЫХОД
         {
             // Стартуем сессию
             session_start();

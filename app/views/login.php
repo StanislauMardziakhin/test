@@ -24,6 +24,9 @@
         <input type="password" name="password" placeholder="Введите пароль" style="text-align: center">
         <input type="hidden" name="submit">
         <button type="submit" class="register-btn">Войти</button>
+        <p>
+            Вернуться на <a href="/">главную</a>
+        </p>
     </form>
     </div>
 

@@ -7,66 +7,10 @@
     "name": "testname"
   },
   {
-    "login": "\u0439\u0446\u0443\u043a\u0435\u043d",
-    "email": "",
-    "password": "\u0439\u0446\u0443\u043a\u0435\u043d123",
-    "password_confirm": "\u0439\u0446\u0443\u043a\u0435\u043d123",
-    "name": ""
-  },
-  {
-    "login": "qwerty",
-    "email": "qwerty@qwe.qwe",
-    "password": "qwerty123",
-    "password_confirm": "qwerty123",
-    "name": ""
-  },
-  {
-    "login": "asdasd",
-    "email": "asd@asd.asd",
-    "password": "asdasd123",
-    "password_confirm": "asdasd123",
-    "name": "asd"
-  },
-  {
-    "login": "dsadsa",
-    "email": "dsa@asd.dsa",
-    "password": "dsa321dsa",
-    "password_confirm": "dsa321dsa",
-    "name": "asdasd"
-  },
-  {
-    "login": "tytyty",
-    "email": "tyty@tyty.ty",
-    "password": "ty12tyty",
-    "password_confirm": "ty12tyty",
-    "name": "tyty"
-  },
-  {
-    "login": "kolokol",
-    "email": "kolokol@kol.lok",
-    "password": "acfb6f6a27bcf84b80ba29198ce0779e",
-    "password_confirm": "kolokol123",
-    "name": "kolokol"
-  },
-  {
-    "login": "Ratatata",
-    "email": "ratata@rat.ta",
-    "password": "0f4072bea49bac62c278c75b855efeca",
-    "password_confirm": "ratata22",
-    "name": "Rat"
-  },
-  {
-    "login": "qweqwe",
-    "email": "qwe@qwe.qw",
-    "password": "345bcbdd68f1bb0f7a3a9af57d4d26bd",
-    "password_confirm": "345bcbdd68f1bb0f7a3a9af57d4d26bd",
-    "name": "qwewqe"
-  },
-  {
-    "login": "xaxaxa",
-    "email": "xaxaxa@xa.ax",
-    "password": "ec077da074e5867887de3f95f6ba7e34",
-    "password_confirm": "ec077da074e5867887de3f95f6ba7e34",
-    "name": "xaxaxa"
+    "login": "testlogin2",
+    "email": "testemail@test.test",
+    "password": "2ae1f008a20fef350c1fe254c5080e37",
+    "password_confirm": "2ae1f008a20fef350c1fe254c5080e37",
+    "name": "testname"
   }
 ]

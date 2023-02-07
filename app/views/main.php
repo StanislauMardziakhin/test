@@ -8,12 +8,17 @@
 
 <body>
 
-<h1>ГЛАВНАЯ СТРАНИЦА</h1><br>
+<h1>ГЛАВНАЯ СТРАНИЦА</h1>
 
     <div>
+        <?php if (User::isGuest()): ?>
         <a href="/register">Регистрация</a>
-        <a href="/login">Вход</a>
+
+                <a href="/login">Вход</a>
+        <?php else: ?>
         <a href="/logout">Выход</a>
+        <?php endif; ?>
+
     </div>
 
 
