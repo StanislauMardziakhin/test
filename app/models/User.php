@@ -105,5 +105,10 @@ class User
             return false;
         }
     }
+    public static function auth($userLogin)
+    {
+        // Записываем идентификатор пользователя в сессию
+        $_SESSION['user'] = $userLogin;
+    }
 
 }

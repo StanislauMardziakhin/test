@@ -13,9 +13,7 @@
     <div>
         <a href="/register">Регистрация</a>
         <a href="/login">Вход</a>
-        <?php if (!empty($_SESSION['user'])): ?>
         <a href="/logout">Выход</a>
-        <?php endif; ?>
     </div>
 
 
